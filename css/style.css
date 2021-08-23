@@ -1,7 +1,4 @@
-/*--
-Author: Template Stock
-Author URL: http://templatestock.co
---*/
+
 body a{
     transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -640,8 +637,8 @@ h2.resp-accordion {
 
 }
 .about-imag {
-	float: left;
-	width:27%;
+	width : 30%;
+	width:100%;
 	margin-right:5%
 }
 .about-imag img {
